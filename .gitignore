@@ -36,3 +36,5 @@ Podfile.lock
 fastlane/LocalConfig.json
 
 *.resolved
+
+.swiftpm/
