@@ -4,7 +4,7 @@
 > Previewable is a **_Utility_** reusable View class that allows for previewing the UI when building for iOS to show in different features
 
 # Requirements
-- iOS 15.0
+- iOS 13.0
 - Swift 5+
 
 # Demo
